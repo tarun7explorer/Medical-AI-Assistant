@@ -1,3 +1,5 @@
+Live Working Link - [https://huggingface.co/spaces/tarun2525tej/clinical-extraction-demo]
+
 # HealosBench
 
 Minimal Streamlit app for extracting structured clinical JSON from a clinical transcript with a local Hugging Face model.
